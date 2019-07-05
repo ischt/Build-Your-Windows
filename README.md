@@ -84,3 +84,4 @@
 > 参考链接：
 > 1. Windows 绝妙项目，<https://amazing-apps.gitbook.io/windows-apps-that-amaze-us/zh-cn>
 > 2. Windows 下如何固定 U 盘的盘符？，<https://www.appinn.com/how-to-set-the-usb-drive-letter/>
+> 3. 在“此电脑”隐藏“设备和驱动器”中不需要的图标，<https://blog.csdn.net/qq_40147863/article/details/83928335>
