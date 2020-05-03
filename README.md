@@ -1,6 +1,7 @@
 # Build-Your-Windows
 
 1. 下载 Windows 镜像 <https://www.microsoft.com/zh-cn/software-download/windows10ISO> 
+
 （浏览器模拟非 Windows 平台防止自动跳转）
 
 2. 使用 Rufus 制作启动 U 盘 <https://rufus.ie/>
