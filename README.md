@@ -27,7 +27,7 @@
 - 系统工具
     - Motrix <https://github.com/agalwood/Motrix/releases>
     - ShadowsocksD <https://github.com/TheCGDF/SSD-Windows>
-    - Bandizip <http://www.bandisoft.com/bandizip/>
+    - Bandizip <https://cn.bandisoft.com/bandizip/old/6/>
     - Snipaste <https://www.snipaste.com/>
     - Wox <http://www.wox.one/>
     - Everything <https://www.voidtools.com/>
@@ -81,8 +81,6 @@
 8. 其他事项
 - [启用 Windows Sandbox 功能](https://www.windows10.pro/windows-sandbox-inprivate-desktop/)：[进入 BIOS 开启 Intel Virtualization Configuration](https://www.windows10.pro/how-to-see-if-the-computer-can-run-hyper-v-virtual-machines/) 
 - 系统备份及还原：使用 Dism++ 创建 WIM/ESD 镜像
-
-
 
 > 参考链接：
 > 1. Windows 绝妙项目，<https://amazing-apps.gitbook.io/windows-apps-that-amaze-us/zh-cn>
