@@ -40,6 +40,8 @@
     - ReNamer <http://www.den4b.com/products/renamer>
     - DropIt <http://www.dropitproject.com>
     - LastPass <https://lastpass.com/misc_download2.php>
+    - Twinkle Tray <https://twinkletray.com/>
+    - Quicker <https://getquicker.net/>
 
 7. 自定义 Apps
 - 文档处理
