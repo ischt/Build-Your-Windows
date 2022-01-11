@@ -28,7 +28,8 @@
     - Motrix <https://github.com/agalwood/Motrix/releases>
     - ShadowsocksD <https://github.com/TheCGDF/SSD-Windows>
     - Bandizip <https://cn.bandisoft.com/bandizip/old/6/>
-    - 7-zip <https://sparanoid.com/lab/7z/>
+    - 7-zip <https://sparanoid.com/lab/7z/> / <https://www.7-zip.org/>
+    - HandBrake <https://handbrake.fr/>
     - Snipaste <https://www.snipaste.com/>
     - Wox <http://www.wox.one/>
     - Everything <https://www.voidtools.com/>
